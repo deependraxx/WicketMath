@@ -1,0 +1,70 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(to right, #000000, #161616);
+    color: #000000;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    background-color: #121212;
+    color: #fff;
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgba(246, 218, 140, 0.2);
+    padding: 30px;
+    max-width: 400px;
+    margin-top: 2.5rem;
+    width: 90%;
+    text-align: center;
+}
+
+.powerCalculator {
+    text-align: center;
+}
+
+h1 {
+    color: #ffbd03;
+    text-decoration: underline;
+}
+
+label {
+    display: block;
+    margin: 10px 0;
+    font-weight: bold;
+    color: #fff;
+}
+
+input,
+select,
+button {
+    padding: 10px;
+    margin: 5px 0;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 9px;
+}
+
+button {
+    background-color: #ffbd03;
+    color: #fff;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding: 12px 20px;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #dd7973;
+}
+
+#powerResult {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #000080;
+}
