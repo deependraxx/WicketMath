@@ -5,8 +5,7 @@
 
 Welcome to WicketMath, a web application designed for cricket enthusiasts to perform various calculations related to batting, bowling, and match scenarios.
 
-![WicketMath Screenshot](<img width="1416" alt="Screenshot 2024-07-20 at 12 02 22 PM" src="https://github.com/user-attachments/assets/0d6a2150-69ca-47f1-a670-fa71238478dd">
-)
+![WicketMath Screenshot]([(https://deependraxx.github.io/WicketMath/)])
 
 ## Features
 
