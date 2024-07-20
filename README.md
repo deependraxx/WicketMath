@@ -1,4 +1,3 @@
-Certainly! Here's a GitHub-ready README for your cricket calculator website:
 
 ---
 
